@@ -1,1 +1,0 @@
-# VINS-Fusion-ROS2
